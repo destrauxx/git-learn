@@ -10,5 +10,5 @@ urlpatterns = [
     path('htmx/create-book-form/', create_book_form, name='create-book-form'),
     path('htmx/book/<pk>/', detail_book, name="detail-book"),
     path('htmx/mark_sells/<name>', mark_sells_view, name='mark-sells')
-
+ывсмыв
 ]
